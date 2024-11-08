@@ -10,7 +10,7 @@
 ## 👨‍🏫 프로젝트 소개
 내일배움캠프 Flutter_5기 Dart 문법 심화 과정 프로젝트로 콘솔창에서 작동하는 Rpg game입니다.
 텍스트 기반으로 턴제 전투를 시행합니다.
-<img alt="게임 실행 이미지" src="https://github.com/JINI093/rpg_game/issues/1#issue-2643170235"/>
+<img alt="게임 실행 이미지" src="https://private-user-images.githubusercontent.com/181442256/384272923-b46b9d69-2b9a-4f43-a90e-4200e323829d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEwNTIzMzQsIm5iZiI6MTczMTA1MjAzNCwicGF0aCI6Ii8xODE0NDIyNTYvMzg0MjcyOTIzLWI0NmI5ZDY5LTJiOWEtNGY0My1hOTBlLTQyMDBlMzIzODI5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwOFQwNzQ3MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjU0MDE0MzFjNzEzODA3NzVjNDRjMThiMDUxM2Y2MmRmOTMxNmZhY2YxMWJjOWU1OGZhMzY1NWY3MjUxOTBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.egcV0oFS_rrrlUhgUZxOhkOt9KWxkJIW7LQCLlUu9xE"/>
 
 ## 프로젝트 개요
 
