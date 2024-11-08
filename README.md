@@ -10,7 +10,7 @@
 ## 👨‍🏫 프로젝트 소개
 내일배움캠프 Flutter_5기 Dart 문법 심화 과정 프로젝트로 콘솔창에서 작동하는 Rpg game입니다.
 텍스트 기반으로 턴제 전투를 시행합니다.
-<img alt="게임 실행 이미지" src="https://github.com/CampingMate/CampingMate/assets/84883277/f368bebb-ae7b-4550-b13a-7fea3236048b"/>
+<img alt="게임 실행 이미지" src="https://github.com/JINI093/rpg_game/issues/1#issue-2643170235"/>
 
 ## 프로젝트 개요
 
