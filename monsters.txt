@@ -1,0 +1,3 @@
+Slime,10,5
+Goblin,20,8
+Oak,30,10
