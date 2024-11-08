@@ -114,6 +114,15 @@ class Game {
 
   Game(this.targetDefeatedMonsters);
 
+  // 보너스 체력 부여 기능 추가
+  void applyBonusHealth() {
+    // 30% 확률로 보너스 체력 부여
+    if (random.nextDouble() < 0.3) {
+      character!.hp += 10;
+      print('보너스 체력을 얻었습니다! 현재 체력: ${character!.hp}');
+    }
+  }
+
 //캐릭터 저장하기
   void saveCharacter() {
     if (character != null) {
@@ -178,9 +187,9 @@ class Game {
 //몬스터 생성하기
   void createDefaultMonsters() {
     monsters = [
-      Monster('Slime', 10, 5, 5),
-      Monster('Goblin', 20, 8, 5),
-      Monster('Oak', 30, 10, 5),
+      Monster('Slime', 10, 5, 0),
+      Monster('Goblin', 20, 8, 0),
+      Monster('Oak', 30, 10, 0),
     ];
     saveMonsters();
   }
@@ -285,6 +294,9 @@ class Game {
       print('캐릭터 생성 중 오류가 발생했습니다.');
       return;
     }
+
+    // 캐릭터 로드 후 보너스 체력 적용
+    applyBonusHealth();
 
     loadMonsters();
 
